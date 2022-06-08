@@ -8,6 +8,6 @@ public class Main {
        System.out.println(calculate.calculateVat(calculate.price));
        System.out.print(calculate.calculateTotal());
 
-
+       System.out.println("Hello");
     }
 }
